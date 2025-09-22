@@ -1,3 +1,12 @@
+URL: https://eproc1g-consulta.tjsp.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=tjsp@consulta_unificada_publica/consultar&acao_retorno=tjsp@consulta_unificada_publica/consultar&num_processo=40203176820258260100&num_chave=&num_chave_documento=&hash=1f9a21bc27e2ceca99b68396fcd5af85
+Número do Processo: 40203176820258260100
 AUTOR: - PRINCIPIAPAY EDUCACAO TECNOLOGIA E SERVICOS LTDA   (32.3**************)          RAPHAEL LUNARDELLI BARRETO   SP253964
 RÉU: - LUIS FILIPE DE SOUZA DO NASCIMENTO   (017.**********)
 Valor da Causa: 81.287,71
+-----------------------------
+URL: https://eproc1g-consulta.tjsp.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=tjsp@consulta_unificada_publica/consultar&acao_retorno=tjsp@consulta_unificada_publica/consultar&num_processo=40203176820258260100&num_chave=&num_chave_documento=&hash=1f9a21bc27e2ceca99b68396fcd5af85
+Número do Processo: 40203176820258260100
+AUTOR: - PRINCIPIAPAY EDUCACAO TECNOLOGIA E SERVICOS LTDA   (32.3**************)          RAPHAEL LUNARDELLI BARRETO   SP253964
+RÉU: - LUIS FILIPE DE SOUZA DO NASCIMENTO   (017.**********)
+Valor da Causa: 81.287,71
+-----------------------------
